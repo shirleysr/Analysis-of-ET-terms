@@ -3,7 +3,10 @@
 # 导入包
 
 ##为pdf加入文件名和时间
-# 思路：遍历文章题录，将所有题目和出版时间放在一个二维数组中；遍历列表题目，写入题目、出版时间，并从另一个文件夹中找出该pdf文件，输出文件txt
+# 思路：
+# 遍历文章题录filelist1，将所有题目和出版时间放在一个二维数组中；
+# 遍历列表题目，写入题目、出版时间，
+# 并从另一个文件夹中找出该pdf文件，输出文件txt
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
@@ -57,18 +60,6 @@ def clean_txt(outfile):
     print(final_result)
     print("-----------------------------------------完成txt清洗-------------------------------------")
     return 0
-
-# # 输入清理后的文本文件，对中文句子分词，并去除停顿词，其中停顿词和标点符号,输出分好词的txt
-# def word_segment():
-#
-#     pass
-#
-# def main():
-#     pass
-#
-# if __name__ == '__main__':
-#     main()
-
 
 fileDir=u'test\\files1'
 outfile = "test\output.txt"

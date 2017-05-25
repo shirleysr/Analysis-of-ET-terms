@@ -1,0 +1,77 @@
+%0 Journal Article
+%A 魏传光
+%A 洪志雄
+%D 2014
+%T 超越与局限_MOOC与网络视频公开课的比较研究
+%J 现代远距离教育
+%N 04
+%@ 1001-8700
+%L 23-1066/G4
+%K MOOC;视频公开课;超越;局限
+ MOOC;Video open courses;Beyond;Limitation
+%X 作为在线开放教育领域的最新成果,MOOC近年来受到国内外各界的普遍关注,并被称为是能够颠覆传统教育的革命性力量。在将其与之前同样风靡的网络视频公开课作对比后发现,MOOC相对于前者在完善课程体系、提升交互性等方面有很大的进步,然而导致视频公开课发展陷入困境的其他一些问题,MOOC却不能完全解决。而且由于在线教育普遍存在人文主义缺失的问题,决定了MOOC自身的发展受到限制,但作为教育领域的有益尝试,MOOC也给如今的高等教育带来了变革的契机。
+%Z 中文;
+CNKI
+%U http://www.cnki.net/kcms/download.aspx?filename=tl0Lr82NW9kSzElSyFjQyZXSxskWBNHO4Enc5oHOlNmR4czb3kjdWxmN1NGcm9CSJRXMxN2TOJXclhGS1NkZwgFTHd2YUNlYWlVUO9CNWNUO5BTbjlUVyJUdxRja1RDTwVFbHhWd1oUUrIGNhRDZ3ZGNPJXdalzb&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=z90T0RmSNZlcDN1TTdHOrwkVnx0U1skZaFnazB3ZTJkUJVUTzoWNW1EZpFFZUhFaVh0bR5kRqxEenJFdsdTeQtWTJdVSRVHWpJGdoZWZCRjRGh1UmJWZlhXVlp3NCJkRzx0Nyp1YKZUezR1ZyhGZ5J2QwNnRhh1U&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=opFdHlXchpFNI5kQQBlRw4GUzBjTDNXcJB1NFF1SNl3Vr9Edn92Q1FVOKZXZYtWZjJ0ZQVERhVlYXh1SsJ0QHZVdvlDUs9kQ3g3M0AzcBpGM1k2SMFDNyhFWjFTV1k2MZx0LvcDaWVnepN1LxYlN0p3VrE1UnZEe&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=SpFTh9GbGZTcvIDNIhmTMBTSytEN1tEUylkYLZnTyknRyd2LTlFcr00a00kewV1RERVSlh1QUV3SZVFT3BFOiJVW0RWVIRHZwQHTxNldTdGTKxER5YmVXFVbxsCN3tSYHNnRqhmUxcDe540a0kGO1kUe6VEOXFGd&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=iJWVGV1U3BHdxhjcmNzTwsiaXJHTxIlUvA3KUp1RlVVQ3ZEdZJXbWdUMUNFVp52TyEkcjVnbZ50bLRVZWhGRwoVetV0TqhTdi5WOmFHa2p0Zy02N4NUW5o3VCJUV4JnUz1GcFZmY2BVOHlGUoxUUQJXYnFnNaZ1K&tablename=CJFD2014&dflag=pdfdown 全文链接
+
+%+ 暨南大学;
+%H Chuanguang Wei
+%A Zhixiong Hong
+
+
+%0 Journal Article
+%A 李爽
+%A 汤琦
+%A 王辞晓
+%D 2014
+%T Wiki环境下学生远程协作知识建构分析的模型反思与案例研究
+%J 现代远距离教育
+%N 03
+%@ 1001-8700
+%L 23-1066/G4
+%K 在线协作知识建构;Wiki;学习分析;以学生为中心
+ Online collaborative knowledge building;Wiki;Learning analysis;Student-centered
+%X Wiki技术为远程在线学习开展实质性协作学习与协作知识共建提供了有力支撑,基于Wiki的CKB质量分析模型,将协作知识构建分为知识共享、知识联结、知识收敛三个阶段。通过案例研究,可以得出结论:基于Wiki的CKB以知识分享为主,知识联结阶段学生倾向于知识同化;知识收敛阶段学生忽略反思和迁移。协作知识构建水平受CKB构建策略和技术水平的影响。可以从CKB的社会性认知过程、技能和情感三个方面搭建"脚手架"。
+%Z 中文;
+CNKI
+%U http://www.cnki.net/kcms/download.aspx?filename=BpketxUWDFUdVlHbaFFaaRUWMZle1EVVrVldHFFasJkeiZlUrgnbWlDMa5EVxhWZuZWNvcGeHpFVOtmbQx0RjtGMMZTaPh0LNJWTEh2baFXbVBjeIpGM3YjSaBVTJFmahNnMLRXWih3M0knYGtCbPZWRzcDbvx2b&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=BV2R6pXa0BHTwMzRjVWdwlWb2ZkMLdDNtp3MMp2Q2Z0YNN3L0QTNCpnT0lkYTRWQNlnZP5mcIFWeiFUczYVRzNXWuZFOwB3QqNFN0kFMTZVYnZlbrN2K1FlTXhDehN1VRFXMzd0Sr0EZ1kWSyYjV0hlY5lkWw9CV&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=T9CO1QHSMVVNhpFbaRXNk9EOvMnWNdTNLFDajZ3dygkRiJnZaNmTzIzSnZ3RQtETSdmMwRUY4VlbsxWQwIEZQpVc1w0dIxEdsRjdu92VZBVYrtGMH9UbzsUVhFVVshXN0hzalFkM3FETx8Sb3EDTGR3a4EFcXdzY&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=LBDeGFXOhFmN5V3c5MkU4lVT4kHTzlTOYR1KrsiTvR1ZXVzQ6pmMVdma3E1bVVGMnd1R3U2TR9UcVhFU3djbDB3TJdFR5EEMyMkM0V0cXhmYPlVMPNTZ08Sb1NncjdHNxsCd2glYGZGcTN1N5EGM0NEZw1mWWtid&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=HZGaRpUQ65UR5wUQuFjbsNEOC90bEVlNChEUYpXcCZ2YHp3NUlGeYFTM61UWxJFT2QTZDpGbGZldjJWWm12NEN2YDRlWFxkazYjNzI3MElHRlFmNYtGdKlXUiZ2bsF0UB9UV0ZXblNVUqhWOwVGUrc1Q5UVYXRER&tablename=CJFD2014&dflag=pdfdown 全文链接
+
+%+ 北京师范大学;
+%H Shuang Li
+%A Qi Tang
+%A Cixiao Wang
+
+
+%0 Journal Article
+%A 张伟
+%A 王海荣
+%D 2014
+%T MOOC课程学习体验及本土化启示
+%J 现代远距离教育
+%N 04
+%@ 1001-8700
+%L 23-1066/G4
+%K MOOC;课程;学习体验;本土化启示
+ MOOC;Courses;Learning experiences;Indigenization enlightenment
+%X MOOC作为一种新的开放教育模式受到了教育界的热捧。除了加入国外知名平台外,国内也已出现中文MOOC平台,部分高校也开始尝试探索MOOC与高等教育的结合方式。本文基于作者对国内外若干MOOC课程的学习和体验性研究,从学习者的角度对MOOC的课程理念、内容与形式、评价体系、管理与组织、课程开发等方面进行了分析,并提出了对MOOC未来发展的思考和本土化的建议。
+%Z 中文;
+CNKI
+%U http://www.cnki.net/kcms/download.aspx?filename=yhzT4AVbF1GcuRnaz1GcwsUQ5olSXRkVzA1MPh3NkxGTwo3bKZmcsJjYGRVRyVjQXh3RkJ1axVXaLR1Qah1LORHUL5UVKRzLYVmTNJFMtZVNINlZoxEcvVTMU1WcFxUbuREaydFSHZVMUVESxQVc29mMNp2QRJ3U&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=ykkV0JXMFVlQXV3aPlUUvFWNIF3dHV2NVBlYV1UbhlkN5YmVzQXR2x2U09yZwQ1K0Y0R4olSapWRLhUTThWQWRDb4YTS0kzUulmNTlEaPhEbpJlMytGelNHajFnUPVjV1JncvhlSmJFawlXd1gGTDVVdDd1bIFke&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=wQUSoRHNPJWZUVlYVhDNqR1T0FkdrsWTJtkb3JVdGhnaQhFblJmb2l3dKJUOhhFNzcncCJlRLd0YBhXStFUQrFTeINDOYhGStxUU1EVMMtyZoVTWtNXZGBXMFhnZTdWe0BFWxkDdWZXRPVTctZWaMJTUIN3LvZXM&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=3d2S0NEeoxWR6NFUywmZXFTYKtSWxxEeld0Q1RHMiJ3MB1kWJZFeIFGbFVTakd0LzIHZ1JmWRhURo5mdCVmVFZjU55GRHN1cMpVNCVUYoRnWwNEW6RDcnhlVRtiRoh3QwI3asFmWFtyMClVSl5Ga1M1cxhGRtxkS&tablename=CJFD2014&dflag=pdfdown 全文链接
+http://www.cnki.net/kcms/download.aspx?filename=Tl0NRhXNxE1LwgHTFVXWCBDdl1EbLpHOnJ3baJVUDZlNIxGOpNWOj5EUGZ1cxknYZJFMPVEaFFlZQpFcK1WR512bvEVcT9EW3ZVcDFGSLBFdplGZwp2KalleOFUN1czMClDS4MkQPRGd4glSKVDMDFXZF5mTzIVc&tablename=CJFD2014&dflag=pdfdown 全文链接
+
+%+ 奥鹏远程教育研究院;
+%H Wei Zhang
+%A Hairong Wang
+
+

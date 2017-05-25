@@ -9,7 +9,7 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 import io,os,re
 
-def add_sth(filelist):
+def pdf_to_txt(filelist):
     codec = 'utf-8'
     mylist=dict.fromkeys(['title', 'year'], ('unknow'))
     with open (filelist,'r') as f:
@@ -32,7 +32,7 @@ def add_sth(filelist):
         f = open(outfile, 'a+b')
         with open(filePath, 'rb') as infile:
             content = []  # 定义一个数组变量用于暂存数据i
-            content.append('##' +i+'$'+Dict.get(i) +'$'+ '##')#将标题用##符号包围起来
+            content.append('##' +i+'$'+Dict[i] +'$'+ '##')#将标题用##符号包围起来
             for page in PDFPage.get_pages(infile, check_extractable=True):
                 interpreter.process_page(page)
                 convertedPDF = output.getvalue()
@@ -47,11 +47,30 @@ def add_sth(filelist):
     print("-----------------------------------完成pdf转化至txt--------------------------------------")
     return 0
 
+# 清理txt文本语料。输入：txt文本，得到只有中字符和句中标点符号的txt文档
+def clean_txt(outfile):
+    with open(outfile, 'rb')as f:
+        content = f.read().decode('utf-8')
+    # p定义了要挑选出的内容，其中\u4e00-\u9fff为中文字符的Unicode编码区间，\u3002\uFF0C分别表示句号与逗号
+   
+    p = re.compile(r'(?<=##,s).+(?=##,s)' and u"[\u4e00-\u9fff+\u3002\uFF0C]")
+    # x将找出的符合条件的内容列表连接在一起输出
+    x = ''.join(re.findall(p, content))
+    # 删除x中连续出现的重复内容，这里对逗号进行了处理
+    final_result = re.sub(u"[\uFF0C]{2,}", "", x)
+    with open(cleaned_file, "w")as outfile:
+        outfile.write(final_result)
+    print(final_result)
+    print("-----------------------------------------完成txt清洗-------------------------------------")
+    return 0
+
 
 fileDir = u'test\\files1'
 filelist=u'test\\filelist1.txt'
 outfile = "test\output.txt"
-add_sth(filelist)
+cleaned_file = "test\\txt_cleaned.txt"
+#pdf_to_txt(filelist)
+clean_txt(outfile)
 
 
 
